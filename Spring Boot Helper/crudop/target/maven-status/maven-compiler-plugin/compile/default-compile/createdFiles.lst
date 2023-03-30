@@ -1,0 +1,6 @@
+com\example\demo\entity\User.class
+com\example\demo\service\UserService.class
+com\example\demo\controller\UserController.class
+com\example\demo\repos\UserRepository.class
+com\example\demo\config\Configself.class
+com\example\demo\CrudopApplication.class
