@@ -1,0 +1,11 @@
+﻿id,account_number,first_name,last_name,account_type,email,address,zipcode
+1,5000201,ramkrishna,Raguvanshi,savings,ram@gmail.com,ayodhya,7897998
+2,5000202,krishna,vaudev,savings,krishna@gmail.com,dwaraka,7897890
+3,5000203,radha,rani,savings,radharani@gmail.com,barsana,2322833
+4,5000204,sita,kumari,savings,sita@gmail.com,midhila,3383332
+5,5000205,sai,kumar,current,saisai@gmail.com,telangana,273839
+6,5000206,Prasanth,kasina,savings,prasanth@gmail.com,vizag,3939292
+7,5000207,ganesh,karanam,savings,kganesh@mail.com,guntur,2928282
+8,5000208,anurag,pandey,current,apandey@gmail.com,rewa,384838
+9,5000209,keerthana,mondru,current,mk@gmail.com,kammam,2838392
+10,5000210,utsav,kumar,current,utsava@mail.com,uttarpradesh,28282392

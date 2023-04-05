@@ -1,0 +1,2 @@
+This is helper to build audo ,file, video sharing app.
+Extend this for apps like streaming platform
