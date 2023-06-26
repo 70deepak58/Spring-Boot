@@ -1,0 +1,28 @@
+body, html {
+    height: 100%;
+  }
+  .bg {
+    background-image: url("https://raw.githubusercontent.com/Navinkt/image-404-error/main/errorr.jpg");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    position: relative;
+  }
+  .my-button {
+    position: absolute;
+    bottom: 3cm;
+    right: 8cm;
+    background-color: #fff;
+    color: #333;
+    font-size: 1.2rem;
+    padding: 1rem;
+    border: none;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+  }
+  
+  .my-button:hover {
+    background-color: #333;
+    color: #fff;
+  }
