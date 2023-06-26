@@ -1,0 +1,14 @@
+com\user\example\CorsConfiguration.class
+com\user\example\entity\Comment.class
+com\user\example\entity\CommentReply.class
+com\user\example\repo\CommentInterface.class
+com\user\example\repo\ProductInterface.class
+com\user\example\entity\Product.class
+com\user\example\repo\CommentReplyInterface.class
+com\user\example\repo\UserInterface.class
+com\user\example\controller\UserController.class
+com\user\example\UserApplication.class
+com\user\example\userService\UserService.class
+com\user\example\entity\User.class
+com\user\example\controller\CommentController.class
+com\user\example\userService\CommentService.class
